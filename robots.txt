@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kathool.carrd.co/sitemap.xml
